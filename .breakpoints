@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.cpp": [
+      {
+        "id": "0818ce71-6601-445f-a8b5-dc26201f635d",
+        "line": 124,
+        "version": 2707,
+        "index": 2876
+      }
+    ],
+    "studentRecord.txt": [
+      {
+        "id": "bbc17fd2-0484-45ea-8988-112d68b70acc",
+        "line": 1,
+        "version": 72,
+        "index": 0
+      }
+    ]
+  }
+}
